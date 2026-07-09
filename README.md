@@ -1,4 +1,4 @@
-# ForexGuard — Real-Time Forex Anomaly Detection Engine
+# Anom-X— Real-Time Forex Anomaly Detection Engine
 > Detects suspicious user and trader behaviour across client portal and trading terminal activity, generates explainable risk alerts, and exposes results via a FastAPI REST layer.
 
 ---
